@@ -45,3 +45,4 @@ o maior valor encontrado.
 ## Status do Projeto
 
 Estrutura inicial criada para simulação de projeto avaliativo da Trybe.
+Projeto em andamento para prática de Git e GitHub.
